@@ -1,0 +1,53 @@
+.sprite {
+    width: 1000px;
+    height: 1000px;
+    position: relative;
+    overflow: hidden;
+}
+
+.sprite1, .sprite2, .sprite3, .sprite4, .sprite5 {
+    position: absolute;
+}
+
+.sprite1 {
+    height: 187px;
+    width: 139px;
+    background-image: url("cards.7e0a18f0.png");
+    background-position: -433px 0px;
+}
+
+.sprite2 {
+    top: 30px;
+    left: 30px;
+    height: 187px;
+    width: 139px;
+    background-image: url("cards.7e0a18f0.png");
+    background-position: -433px -1791px;
+}
+
+.sprite3 {
+    top: 60px;
+    left: 60px;
+    height: 187px;
+    width: 139px;
+    background-image: url("cards.7e0a18f0.png");
+    background-position: -288px -1393px;
+}
+
+.sprite4 {
+    top: 90px;
+    left: 90px;
+    height: 187px;
+    width: 139px;
+    background-image: url("cards.7e0a18f0.png");
+    background-position: -145px -2189px;
+}
+
+.sprite5 {
+    top: 120px;
+    left: 120px;
+    height: 187px;
+    width: 139px;
+    background-image: url("cards.7e0a18f0.png");
+    background-position: 0px -2388px;
+}
