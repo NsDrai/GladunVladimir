@@ -1,0 +1,23 @@
+.ul1, .ul2 {
+    width: 350px;
+}
+
+.ul1 {
+    list-style-type: upper-roman;
+    font-weight: bold;
+}
+
+.ul2 {
+    list-style-type: lower-roman;
+    font-weight: normal;
+}
+
+div {
+    width: 400px;
+    background-color: black;
+    color: green;
+    max-height: 50px;
+    overflow: auto;
+    line-height: 16px;
+    overflow-y: scroll;
+}
