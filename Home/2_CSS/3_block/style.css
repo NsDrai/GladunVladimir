@@ -1,0 +1,20 @@
+.navigation {
+    width: 15em;
+    background-color: gray;
+    float: left;
+    height: 400px;
+    padding: 10px;
+}
+
+.block {
+    background-color: azure;
+    padding: 10px;
+    margin-bottom: 0.2em;
+    margin-left: 16.3em;
+    padding: 70px;
+}
+
+.downblock {
+    background-color: bisque;
+    clear: both;
+}
